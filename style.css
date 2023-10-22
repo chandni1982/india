@@ -10,11 +10,41 @@ li{
 }
 body{
 	background-color: lightblue;
+
 }
 h2{
 	color: deeppink;
 }
+p{
+	color: orange;
+	font-family: cursive;
+	font-size: 50px;
+	background: blue;
+	width: 20em;
+
+}
 .big{
 	
 	font-size: 70px;
+}
+.top-center{
+	align = "top-center"
+}
+
+.c1{
+	padding: 2em;
+}
+
+.c2{
+	border: 0.5em red solid;
+	padding: 2em;
+
+}
+.c3{
+	border: 0.2em red solid;
+	padding: 2em;
+	margin: 2em;
+}
+.green{
+	background-color: green;
 }
